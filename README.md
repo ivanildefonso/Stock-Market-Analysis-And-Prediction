@@ -1,1 +1,1 @@
-# Stock-Market-Analysis-And-Prediction
+# Stock Market Prediction
